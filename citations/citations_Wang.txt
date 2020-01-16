@@ -1,0 +1,9 @@
+PICKLES Database:
+
+Lenoir, W.F., T.L. Lim, and T. Hart, PICKLES: the database of pooled in-vitro CRISPR knockout library essentiality screens. Nucleic Acids Res, 2017.
+
+Wang Screens:
+
+Wang, T., et al., Gene Essentiality Profiling Reveals Gene Networks and Synthetic Lethal Interactions with Oncogenic Ras. Cell, 2017. 168(5): p. 890-903 e15.
+
+Wang, T., et al., Identification and characterization of essential genes in the human genome. Science, 2015. 350(6264): p. 1096-101.

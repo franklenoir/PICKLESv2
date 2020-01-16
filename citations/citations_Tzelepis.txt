@@ -1,0 +1,9 @@
+PICKLES Database:
+
+Lenoir, W.F., T.L. Lim, and T. Hart, PICKLES: the database of pooled in-vitro CRISPR knockout library essentiality screens. Nucleic Acids Res, 2017
+
+Tzelepis-Yusa Screens:
+
+Tzelepis, K., et al., A CRISPR Dropout Screen Identifies Genetic Vulnerabilities and Therapeutic Targets in Acute Myeloid Leukemia. Cell Rep, 2016. 17(4): p. 1193-1205.
+
+Koike-Yusa, H., et al., Genome-wide recessive genetic screening in mammalian cells with a lentiviral CRISPR-guide RNA library. Nat Biotechnol, 2014. 32(3): p. 267-73.

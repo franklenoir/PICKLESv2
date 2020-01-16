@@ -1,0 +1,89 @@
+p {
+  font-family: "Arial";
+}
+h2 {
+  font-family: "Arial";
+}
+h3 {
+  font-family: "Arial";
+}
+body {
+  background-color: #E6E6E6;
+}
+h1{
+  font-family: "Arial";
+}
+#load{ /* creates opaque square for loading page */
+    width:100%;
+    height:100%;
+    top: 0;
+    position:fixed;
+    z-index:9999;
+    text-align: center;
+    color: blue;
+    background: no-repeat center center rgba(230,230,230,0.75);
+}
+
+#loading {
+   /* creates opaque square for loading page */
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+   position: fixed;
+   display: block;
+   opacity: 0.7;
+   background-color: #fff;
+   z-index: 99;
+   text-align: center;
+}
+
+#loading-image {
+  position: absolute;
+  top: 100px;
+  left: 240px;
+  z-index: 100;
+}
+
+#myBar { /* styles progress bar on laod page */
+    width: 0%;
+    height: 30px;
+    background-color: #4CAF50;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
+.essentiality_map{
+  line-height: 25%;
+}
+#documents{
+  line-height: 100%;
+}
+i { /* makes icon > */
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right { /* rotates > icon to point right */
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+#top {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: grey; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 5px;
+}
+
+#top:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}

@@ -1,0 +1,7 @@
+PICKLES Database:
+
+Lenoir, W.F., T.L. Lim, and T. Hart, PICKLES: the database of pooled in-vitro CRISPR knockout library essentiality screens. Nucleic Acids Res, 2017.
+
+Wang Screens:
+
+Behan, F.M., et al., Prioritization of cancer therapeutic targets using CRISPR-Cas9 screens. Nature, 2019.

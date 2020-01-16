@@ -1,0 +1,51 @@
+Citation Information
+
+PICKLES Database:
+
+Lenoir, W.F., T.L. Lim, and T. Hart, PICKLES: the database of pooled in-vitro CRISPR knockout library essentiality screens. Nucleic Acids Res, 2017.
+
+Avana Coessentiality Network:
+
+Kim, E., et al., Hierarchical organization of the human cell from a cancer coessentiality network. bioRxiv, 2018.
+
+shRNA Screens:
+
+Hart, T., C. Koh, and J. Moffat, Coessentiality And Cofunctionality: A Network Approach To Learning Genetic Vulnerabilities From Cancer Cell Line Fitness Screens. bioRxiv, 2017.
+
+Moffat, J., et al., A lentiviral RNAi library for human and mouse genes applied to an arrayed viral high-content screen. Cell, 2006. 124(6): p. 1283-98.
+
+GeCKO Screens:
+
+Shalem, O., N.E. Sanjana, and F. Zhang, High-throughput functional genomics using CRISPR-Cas9. Nat Rev Genet, 2015. 16(5): p. 299-311.
+
+Sanjana, N.E., O. Shalem, and F. Zhang, Improved vectors and genome-wide libraries for CRISPR screening. Nat Methods, 2014. 11(8): p. 783-784.
+
+TKOv1 Screens:
+
+Steinhart, Z., et al., Genome-wide CRISPR screens reveal a Wnt-FZD5 signaling circuit as a druggable vulnerability of RNF43-mutant pancreatic tumors. Nat Med, 2017. 23(1): p. 60-68.
+
+Hart, T., et al., High-Resolution CRISPR Screens Reveal Fitness Genes and Genotype-Specific Cancer Liabilities. Cell, 2015. 163(6): p. 1515-26.
+
+Tzelepis-Yusa Screens:
+
+Tzelepis, K., et al., A CRISPR Dropout Screen Identifies Genetic Vulnerabilities and Therapeutic Targets in Acute Myeloid Leukemia. Cell Rep, 2016. 17(4): p. 1193-1205.
+
+Koike-Yusa, H., et al., Genome-wide recessive genetic screening in mammalian cells with a lentiviral CRISPR-guide RNA library. Nat Biotechnol, 2014. 32(3): p. 267-73.
+
+Wang Screens:
+
+Wang, T., et al., Gene Essentiality Profiling Reveals Gene Networks and Synthetic Lethal Interactions with Oncogenic Ras. Cell, 2017. 168(5): p. 890-903 e15.
+
+Wang, T., et al., Identification and characterization of essential genes in the human genome. Science, 2015. 350(6264): p. 1096-101.
+
+Avana Screens: 
+
+Doench, J.G., et al., Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9. Nat Biotechnol, 2016. 34(2): p. 184-191.
+
+Meyers, R.M., et al., Computational correction of copy number effect improves specificity of CRISPR-Cas9 essentiality screens in cancer cells. Nat Genet, 2017.
+
+Sanger (Behan) Screens:
+
+Behan, F.M., et al., Prioritization of cancer therapeutic targets using CRISPR-Cas9 screens. Nature, 2019.
+
+

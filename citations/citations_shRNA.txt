@@ -1,0 +1,9 @@
+PICKLES Database:
+
+Lenoir, W.F., T.L. Lim, and T. Hart, PICKLES: the database of pooled in-vitro CRISPR knockout library essentiality screens. Nucleic Acids Res, 2017.
+
+shRNA Screens:
+
+Hart, T., C. Koh, and J. Moffat, Coessentiality And Cofunctionality: A Network Approach To Learning Genetic Vulnerabilities From Cancer Cell Line Fitness Screens. bioRxiv, 2017.
+
+Moffat, J., et al., A lentiviral RNAi library for human and mouse genes applied to an arrayed viral high-content screen. Cell, 2006. 124(6): p. 1283-98.

@@ -1,0 +1,9 @@
+PICKLES Database:
+
+Lenoir, W.F., T.L. Lim, and T. Hart, PICKLES: the database of pooled in-vitro CRISPR knockout library essentiality screens. Nucleic Acids Res, 2017.
+
+TKOv1 Screens:
+
+Steinhart, Z., et al., Genome-wide CRISPR screens reveal a Wnt-FZD5 signaling circuit as a druggable vulnerability of RNF43-mutant pancreatic tumors. Nat Med, 2017. 23(1): p. 60-68.
+
+Hart, T., et al., High-Resolution CRISPR Screens Reveal Fitness Genes and Genotype-Specific Cancer Liabilities. Cell, 2015. 163(6): p. 1515-26.
